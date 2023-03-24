@@ -1,0 +1,38 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    border:5px solid black;
+    width: 700px;
+    text-align: center;
+}
+
+.container {
+    border:2px solid black;
+    width: 706px;
+    text-align: center;
+}
+
+
+#genButton {
+    width: 300px;
+    font-size: 35px;
+}
+
+.genButton {
+    margin: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#spewedPassText {
+    width: 500px;
+    height: 100px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    word-wrap: break-word;
+    
+}
