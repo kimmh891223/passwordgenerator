@@ -10,7 +10,7 @@ https://kimmh891223.github.io/passwordgenerator/
 This application is a random password generator that generates a random password between 8 to 128 in length with different criteria options including numeric, lower-case alphabets, upper-case alphabets, and special characters.
 
 
-## Contributers
+## Contributors
 kimmh891223
 
 Resource for the array join
